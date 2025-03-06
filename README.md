@@ -6,7 +6,7 @@ Esquema mínim de carpetes pels projectes transversals
 ## Atenció
 Un cop comenceu heu de canviar aquesta explicació amb la corresponent al vostre projecte (utilitzant markdown)
 
-# Aquest fitxer ha de contenir com a mínim:
+# Dades del projecte:
  * Nom dels integrants: Matthew Antonio Castilla Marapi
  * Nom del projecte: Infinite Attack
  * Petita descripció
